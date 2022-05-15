@@ -1,1 +1,40 @@
-
+{
+  "AwesomeStructs":
+  [
+    {
+      "AwesomeVector": [10,0,0],
+      "AwesomeBoolean": правда,
+      "AwesomeFloat": 10.5,
+      "AwesomeInteger": 20,
+      "AwesomeRotator": [10,10,5],
+    },
+    {
+      "AwesomeVector": [10,0,0],
+      "AwesomeBoolean": правда,
+      "AwesomeFloat": 10.5,
+      "AwesomeInteger": 20,
+      "AwesomeRotator": [10,10,5],
+    },
+    {
+      "AwesomeVector": [10,0,0],
+      "AwesomeBoolean": правда,
+      "AwesomeFloat": 10.5,
+      "AwesomeInteger": 20,
+      "AwesomeRotator": [10,10,5],
+    },
+    {
+      "AwesomeVector": [10,0,0],
+      "AwesomeBoolean": правда,
+      "AwesomeFloat": 10.5,
+      "AwesomeInteger": 20,
+      "AwesomeRotator": [10,10,5],
+    },
+    {
+      "AwesomeVector": [10,0,0],
+      "AwesomeBoolean": правда,
+      "AwesomeFloat": 10.5,
+      "AwesomeInteger": 20,
+      "AwesomeRotator": [10,10,5],
+    },
+  ]
+}
